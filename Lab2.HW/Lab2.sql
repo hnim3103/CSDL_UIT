@@ -1,4 +1,3 @@
-USE ITMS
 -- Liệt kê tất cả các chuyên gia và sắp xếp theo họ tên.
 
 SELECT *
